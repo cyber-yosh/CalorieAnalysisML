@@ -1,6 +1,13 @@
 # CalorieTracker
 
-CalorieTracker is a lightweight AI-powered tool that estimates the calorie content of food from a single image. Just take a photo of a meal, and the model will output an estimated calorie value.
+AI model that determines nutritional information from images. 
+## Example
+
+| Image | Example Response |
+|-------|------------------|
+| <img src="assets/test.png" width="200"/>  | Calories: 267.62  Mass: 231.74  Fat: 8.71  Carbs: 21.64  Protein: 15.53 |
+
+
 
 ## Features
 
