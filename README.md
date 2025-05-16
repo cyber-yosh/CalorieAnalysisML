@@ -10,7 +10,7 @@ CalorieTracker is a lightweight AI-powered tool that estimates the calorie conte
 
 ## Dataset
 
-This project uses the [Nutrition5k dataset]([https://github.com/nutrition5k/nutrition5k](https://github.com/google-research-datasets/Nutrition5k)) as the primary source for food images and corresponding nutritional values.
+This project uses the [Nutrition5k dataset]([https://github.com/google-research-datasets/Nutrition5k]) as the primary source for food images and corresponding nutritional values.
 
 ## Acknowledgments
 
