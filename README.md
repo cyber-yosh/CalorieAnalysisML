@@ -22,6 +22,10 @@ AI model that determines nutritional information from images.
 
 This project uses the [Nutrition5k dataset](https://github.com/google-research-datasets/Nutrition5k) as the primary source for food images and corresponding nutritional values.
 
+## Future Work
+
+- Create a model that takes in text-based features (eg. list of known ingredients)
+
 ## Acknowledgments
 
 Special thanks to:
