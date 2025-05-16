@@ -1,6 +1,7 @@
 # CalorieTracker
 
 AI model that determines nutritional information from images. 
+[Presentation](assets/MachineLearningPresentation.key)
 ## Example
 
 | Image | Example Response |
@@ -14,6 +15,8 @@ AI model that determines nutritional information from images.
 - Input: Photo of a food item or meal
 - Output: Predicted calorie count
 - Built using a custom-trained convolutional neural network
+<img src="assets/MultiImageCNN.png" width="500"/> 
+
 
 ## Dataset
 
